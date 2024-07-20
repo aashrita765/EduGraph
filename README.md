@@ -1,4 +1,4 @@
-# EduGraph
+# EduGraph: An Intelligent Course Prerequisite Analyzer
 In this project, I developed a Python-based tool that helps students plan their course schedules by analyzing prerequisites, detecting cycles, and providing an optimal order of courses using graph theory algorithms and visualizations.
 
 1. User Input for Prerequisites:
